@@ -11,3 +11,4 @@ En la primer entrega incluímos el Reto Limpieza del Conjunto de Datos.
 - Ernesto Acosta Ruiz | A01364982
 - Gabriela Chimali Nava Ramírez | A01710530
 - Victor Adid Salgado Santana | A01710023
+
