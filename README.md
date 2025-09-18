@@ -12,3 +12,7 @@ En la primer entrega incluímos el Reto Limpieza del Conjunto de Datos.
 - Gabriela Chimali Nava Ramírez | A01710530
 - Victor Adid Salgado Santana | A01710023
 
+Para entrenar el modelo GPU: NVIDIA T4, con las siguientes características:
+* 8vCPU
+* 32 GB RAM
+* 16 GB VRAM
